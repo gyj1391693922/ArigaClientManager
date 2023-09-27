@@ -1,4 +1,4 @@
-# ArigaServe
+# ArigaClientManager
 This is MySeft Test Probjectes
 # technology stack  
 Java  
